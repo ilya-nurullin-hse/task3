@@ -6,6 +6,7 @@ namespace Task3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Задание: определить, принадлежит ли указанная точка закрашенной области.");
             while (true)
             {
                 var defaultConsoleColor = Console.ForegroundColor;
