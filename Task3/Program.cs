@@ -42,7 +42,7 @@ namespace Task3
                     else
                     {
                         Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.WriteLine("Точка не принадлежит закрашеннгой области");
+                        Console.WriteLine("Точка не принадлежит закрашенной области");
                     }
                     Console.ForegroundColor = defaultConsoleColor;
                 }
